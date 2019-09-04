@@ -1,5 +1,7 @@
 ### Updater For C# programs
 
+If you need to update program (windows form for example) which using many users and located on virtual or network disk
+
     Program Name  
     ├── Updater.exe (Can be renamed to Program Name)
     └── Application Files (PathToView string)
@@ -12,3 +14,6 @@
     └── Other versions
     
 # The Updater will choose the newest version and open it 
+
+### When all users open new version via updater, you can easy delete old versions 
+
