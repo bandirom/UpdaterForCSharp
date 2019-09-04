@@ -1,9 +1,10 @@
 ### Updater For C# prorams
 
-  Program Name  
-  ├── Updater.exe (Can be renamed to Program Name)
+    Program Name  
+    
+    ├── Updater.exe (Can be renamed to Program Name)
   
-  └── Application Files (PathToView string)
+    └── Application Files (PathToView string)
   
     ├── Program Name_0.0.0.1
     
